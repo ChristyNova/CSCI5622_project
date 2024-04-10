@@ -1,0 +1,305 @@
+time,end,type,sc_id,source,orbit,description
+2020-06-18/23:46:38,2020-06-18/23:46:38,bds_selection,mms,BDM,1119,null
+2020-06-18/23:26:22,2020-06-19/16:29:06,SROI,mms4,POC,1119,null
+2020-06-18/23:26:13,2020-06-19/16:28:56,SROI,mms3,POC,1119,null
+2020-06-18/23:26:12,2020-06-19/16:28:50,SROI,mms2,POC,1119,null
+2020-06-18/23:26:06,2020-06-19/16:28:51,SROI,mms1,POC,1119,null
+2020-06-18/23:26:06,2020-06-19/16:28:51,sitl_report,mms,SITL,1119,A long magnetosheath interval with a few partial and complete MP crossings.  A long transition to the magnetosphere occurs in the last 2 hours of the interval.
+2020-06-18/23:18:53,2020-06-21/23:18:53,sitl_window,mms,BDM,1119,null
+2020-06-18/13:40:00,2020-06-18/15:20:00,dsn_contact,mms3,Timeline,1119,null
+2020-06-18/11:45:00,2020-06-18/13:25:00,dsn_contact,mms2,Timeline,1119,null
+2020-06-18/10:21:13,2020-06-18/10:23:33,burst_segment,mms,Burst,1119,Large B fluctuations with desnity drops; Turbulen CS?
+2020-06-18/10:18:53,2020-06-18/10:21:13,burst_segment,mms,Burst,1119,Large B fluctuations with desnity drops; Turbulen CS?
+2020-06-18/10:16:33,2020-06-18/10:18:53,burst_segment,mms,Burst,1119,Large B fluctuations with desnity drops; Turbulen CS?
+2020-06-18/10:14:13,2020-06-18/10:16:33,burst_segment,mms,Burst,1119,Large B fluctuations with desnity drops; Turbulen CS?
+2020-06-18/10:11:53,2020-06-18/10:14:13,burst_segment,mms,Burst,1119,Large B fluctuations with desnity drops; Turbulen CS?
+2020-06-18/10:09:43,2020-06-18/10:11:53,burst_segment,mms,Burst,1119,Large B fluctuations with desnity drops; Turbulen CS?
+2020-06-18/10:07:23,2020-06-18/10:09:43,burst_segment,mms,Burst,1119,Large B fluctuations with desnity drops; Turbulen CS?
+2020-06-18/10:05:03,2020-06-18/10:07:23,burst_segment,mms,Burst,1119,Large B fluctuations with desnity drops; Turbulen CS?
+2020-06-18/10:02:43,2020-06-18/10:05:03,burst_segment,mms,Burst,1119,Large B fluctuations with desnity drops; Turbulen CS?
+2020-06-18/10:00:23,2020-06-18/10:02:43,burst_segment,mms,Burst,1119,Large B fluctuations with desnity drops; Turbulen CS?
+2020-06-18/09:50:00,2020-06-18/11:30:00,dsn_contact,mms1,Timeline,1119,null
+2020-06-18/09:23:43,2020-06-18/09:25:33,burst_segment,mms,Burst,1119,Bi-polar Bz with |B| spike; flux rope?
+2020-06-18/08:59:13,2020-06-18/09:01:33,burst_segment,mms,Burst,1119,Full B rotation with electron heating
+2020-06-18/08:56:53,2020-06-18/08:59:13,burst_segment,mms,Burst,1119,Full B rotation with electron heating
+2020-06-18/08:54:43,2020-06-18/08:56:53,burst_segment,mms,Burst,1119,Full B rotation with electron heating
+2020-06-18/08:52:23,2020-06-18/08:54:43,burst_segment,mms,Burst,1119,Full B rotation with electron heating
+2020-06-18/08:45:00,2020-06-18/09:35:00,dsn_contact,mms4,Timeline,1119,null
+2020-06-18/08:17:39,2020-06-18/08:17:39,apogee,mms4,Timeline,1119,null
+2020-06-18/08:17:30,2020-06-18/08:17:30,apogee,mms3,Timeline,1119,null
+2020-06-18/08:17:26,2020-06-18/08:17:26,apogee,mms2,Timeline,1119,null
+2020-06-18/08:17:25,2020-06-18/08:17:25,apogee,mms1,Timeline,1119,null
+2020-06-18/07:50:00,2020-06-18/08:40:00,dsn_contact,mms3,Timeline,1119,null
+2020-06-18/07:05:33,2020-06-18/07:08:03,burst_segment,mms,Burst,1119,"Rapid, moderate B fluctuations and ion heating after full B rotation; Turbulent CS?"
+2020-06-18/07:03:13,2020-06-18/07:05:33,burst_segment,mms,Burst,1119,"Rapid, moderate B fluctuations and ion heating after full B rotation; Turbulent CS?"
+2020-06-18/07:00:43,2020-06-18/07:03:13,burst_segment,mms,Burst,1119,"Rapid, moderate B fluctuations and ion heating after full B rotation; Turbulent CS?"
+2020-06-18/06:58:13,2020-06-18/07:00:43,burst_segment,mms,Burst,1119,"Rapid, moderate B fluctuations and ion heating after full B rotation; Turbulent CS?"
+2020-06-18/06:55:53,2020-06-18/06:58:13,burst_segment,mms,Burst,1119,"Rapid, moderate B fluctuations and ion heating after full B rotation; Turbulent CS?"
+2020-06-18/06:53:23,2020-06-18/06:55:53,burst_segment,mms,Burst,1119,"Rapid, moderate B fluctuations and ion heating after full B rotation; Turbulent CS?"
+2020-06-18/06:50:53,2020-06-18/06:53:23,burst_segment,mms,Burst,1119,"Rapid, moderate B fluctuations and ion heating after full B rotation; Turbulent CS?"
+2020-06-18/06:48:33,2020-06-18/06:50:53,burst_segment,mms,Burst,1119,"Rapid, moderate B fluctuations and ion heating after full B rotation; Turbulent CS?"
+2020-06-18/06:46:03,2020-06-18/06:48:33,burst_segment,mms,Burst,1119,"Rapid, moderate B fluctuations and ion heating after full B rotation; Turbulent CS?"
+2020-06-18/06:45:00,2020-06-18/07:35:00,dsn_contact,mms2,Timeline,1119,null
+2020-06-18/06:43:33,2020-06-18/06:46:03,burst_segment,mms,Burst,1119,"Rapid, moderate B fluctuations and ion heating after full B rotation; Turbulent CS?"
+2020-06-18/06:41:53,2020-06-21/06:41:53,sitl_window,mms,BDM,1119,null
+2020-06-18/06:41:13,2020-06-18/06:43:33,burst_segment,mms,Burst,1119,"Rapid, moderate B fluctuations and ion heating after full B rotation; Turbulent CS?"
+2020-06-18/06:38:43,2020-06-18/06:41:13,burst_segment,mms,Burst,1119,"Rapid, moderate B fluctuations and ion heating after full B rotation; Turbulent CS?"
+2020-06-18/06:36:23,2020-06-18/06:38:43,burst_segment,mms,Burst,1119,"Rapid, moderate B fluctuations and ion heating after full B rotation; Turbulent CS?"
+2020-06-18/06:33:53,2020-06-18/06:36:23,burst_segment,mms,Burst,1119,"Rapid, moderate B fluctuations and ion heating after full B rotation; Turbulent CS?"
+2020-06-18/06:31:23,2020-06-18/06:33:53,burst_segment,mms,Burst,1119,"Rapid, moderate B fluctuations and ion heating after full B rotation; Turbulent CS?"
+2020-06-18/06:29:03,2020-06-18/06:31:23,burst_segment,mms,Burst,1119,"Rapid, moderate B fluctuations and ion heating after full B rotation; Turbulent CS?"
+2020-06-18/06:26:33,2020-06-18/06:29:03,burst_segment,mms,Burst,1119,"Rapid, moderate B fluctuations and ion heating after full B rotation; Turbulent CS?"
+2020-06-18/06:24:03,2020-06-18/06:26:33,burst_segment,mms,Burst,1119,"Rapid, moderate B fluctuations and ion heating after full B rotation; Turbulent CS?"
+2020-06-18/06:23:13,2020-06-18/06:25:23,burst_segment,mms,Burst,1119,MS current sheet
+2020-06-18/06:21:43,2020-06-18/06:24:03,burst_segment,mms,Burst,1119,"Rapid, moderate B fluctuations and ion heating after full B rotation; Turbulent CS?"
+2020-06-18/06:21:03,2020-06-18/06:23:13,burst_segment,mms,Burst,1119,MS current sheet
+2020-06-18/06:19:13,2020-06-18/06:21:43,burst_segment,mms,Burst,1119,"Rapid, moderate B fluctuations and ion heating after full B rotation; Turbulent CS?"
+2020-06-18/06:18:53,2020-06-18/06:21:03,burst_segment,mms,Burst,1119,MS current sheet
+2020-06-18/05:56:43,2020-06-18/05:59:03,burst_segment,mms,Burst,1119,Steady B rotation with density increase
+2020-06-18/05:54:23,2020-06-18/05:56:43,burst_segment,mms,Burst,1119,Steady B rotation with density increase
+2020-06-18/05:52:03,2020-06-18/05:54:23,burst_segment,mms,Burst,1119,Steady B rotation with density increase
+2020-06-18/05:49:43,2020-06-18/05:52:03,burst_segment,mms,Burst,1119,Steady B rotation with density increase
+2020-06-18/04:28:23,2020-06-18/04:30:23,burst_segment,mms,Burst,1119,Rapid B rotation with |B| spike and densisty drop
+2020-06-18/03:54:13,2020-06-18/03:55:33,burst_segment,mms,Burst,1119,Bz reversal with current spike; Flux rope?
+2020-06-18/03:51:33,2020-06-18/03:52:43,burst_segment,mms,Burst,1119,Bz reversal with current spikes; Flux rope?
+2020-06-18/03:47:33,2020-06-18/03:50:03,burst_segment,mms,Burst,1119,Partial MP crossing
+2020-06-18/03:39:13,2020-06-18/03:41:33,burst_segment,mms,Burst,1119,Short MP crossing and back
+2020-06-18/03:37:03,2020-06-18/03:39:13,burst_segment,mms,Burst,1119,Short MP crossing and back
+2020-06-18/03:33:23,2020-06-18/03:34:43,burst_segment,mms,Burst,1119,Partial MP crossing
+2020-06-18/03:32:03,2020-06-18/03:33:23,burst_segment,mms,Burst,1119,Partial MP crossing
+2020-06-18/03:30:13,2020-06-18/03:32:03,burst_segment,mms,Burst,1119,MP crossing
+2020-06-18/03:28:33,2020-06-18/03:30:13,burst_segment,mms,Burst,1119,MP crossing
+2020-06-18/03:15:23,2020-06-18/03:17:33,burst_segment,mms,Burst,1119,Long MP crossing
+2020-06-18/03:13:13,2020-06-18/03:15:23,burst_segment,mms,Burst,1119,Long MP crossing
+2020-06-18/03:11:13,2020-06-18/03:13:13,burst_segment,mms,Burst,1119,Long MP crossing
+2020-06-18/03:09:03,2020-06-18/03:11:13,burst_segment,mms,Burst,1119,Long MP crossing
+2020-06-18/03:06:53,2020-06-18/03:09:03,burst_segment,mms,Burst,1119,Long MP crossing
+2020-06-18/03:02:23,2020-06-18/03:04:33,burst_segment,mms,Burst,1119,Partial MP crossing
+2020-06-18/03:00:03,2020-06-18/03:02:23,burst_segment,mms,Burst,1119,Partial MP crossing
+2020-06-18/02:57:53,2020-06-18/03:00:03,burst_segment,mms,Burst,1119,Partial MP crossing
+2020-06-18/02:55:43,2020-06-18/02:57:53,burst_segment,mms,Burst,1119,Partial MP crossing
+2020-06-18/02:53:43,2020-06-18/02:55:43,burst_segment,mms,Burst,1119,MP crossing
+2020-06-18/02:51:53,2020-06-18/02:53:43,burst_segment,mms,Burst,1119,MP crossing
+2020-06-18/02:49:53,2020-06-18/02:51:53,burst_segment,mms,Burst,1119,MP crossing
+2020-06-18/02:47:43,2020-06-18/02:49:53,burst_segment,mms,Burst,1119,Boundary layer before complete MP crossing
+2020-06-18/02:45:43,2020-06-18/02:47:43,burst_segment,mms,Burst,1119,Boundary layer before complete MP crossing
+2020-06-18/02:43:33,2020-06-18/02:45:43,burst_segment,mms,Burst,1119,Boundary layer before complete MP crossing
+2020-06-18/02:34:13,2020-06-18/02:36:43,burst_segment,mms,Burst,1119,MP crossing?
+2020-06-18/02:31:53,2020-06-18/02:34:13,burst_segment,mms,Burst,1119,MP crossing?
+2020-06-18/02:29:43,2020-06-18/02:31:53,burst_segment,mms,Burst,1119,Boundary crossing with deep B minimum
+2020-06-18/02:27:33,2020-06-18/02:29:43,burst_segment,mms,Burst,1119,Boundary crossing with deep B minimum
+2020-06-18/02:27:23,2020-06-18/02:29:53,burst_segment,mms,Burst,1119,MP crossing
+2020-06-18/02:25:23,2020-06-18/02:27:33,burst_segment,mms,Burst,1119,Boundary crossing with deep B minimum
+2020-06-18/02:24:23,2020-06-18/02:27:23,burst_segment,mms,Burst,1119,MP crossing
+2020-06-18/02:19:43,2020-06-18/02:22:03,burst_segment,mms,Burst,1119,Partial MP crossing
+2020-06-18/02:17:23,2020-06-18/02:19:43,burst_segment,mms,Burst,1119,Back-to-back boundary crossings with deep B minimum
+2020-06-18/02:17:13,2020-06-18/02:19:43,burst_segment,mms,Burst,1119,Partial MP crossing
+2020-06-18/02:14:53,2020-06-18/02:17:13,burst_segment,mms,Burst,1119,Partial MP crossing
+2020-06-18/02:12:33,2020-06-18/02:14:53,burst_segment,mms,Burst,1119,Back-to-back boundary crossings with deep B minimum
+2020-06-18/02:10:03,2020-06-18/02:12:33,burst_segment,mms,Burst,1119,Back-to-back boundary crossings with deep B minimum
+2020-06-18/02:08:13,2020-06-18/02:10:03,burst_segment,mms,Burst,1119,Boundary crossing
+2020-06-18/02:06:23,2020-06-18/02:08:13,burst_segment,mms,Burst,1119,Boundary crossing
+2020-06-18/02:02:03,2020-06-18/02:04:43,burst_segment,mms,Burst,1119,Boundary crossing
+2020-06-18/01:57:03,2020-06-18/01:59:33,burst_segment,mms,Burst,1119,Back-to-back boundary crossings
+2020-06-18/01:54:33,2020-06-18/01:57:03,burst_segment,mms,Burst,1119,Back-to-back boundary crossings
+2020-06-18/01:52:03,2020-06-18/01:54:33,burst_segment,mms,Burst,1119,Back-to-back boundary crossings
+2020-06-18/01:49:33,2020-06-18/01:52:03,burst_segment,mms,Burst,1119,Back-to-back boundary crossings
+2020-06-18/01:47:03,2020-06-18/01:49:33,burst_segment,mms,Burst,1119,Back-to-back boundary crossings
+2020-06-18/01:44:33,2020-06-18/01:47:03,burst_segment,mms,Burst,1119,Back-to-back boundary crossings
+2020-06-18/01:41:13,2020-06-18/01:43:23,burst_segment,mms,Burst,1119,Boundary crossing
+2020-06-18/01:38:53,2020-06-18/01:41:13,burst_segment,mms,Burst,1119,Boundary crossing
+2020-06-18/01:36:43,2020-06-18/01:38:53,burst_segment,mms,Burst,1119,Boundary crossing
+2020-06-18/01:34:33,2020-06-18/01:36:43,burst_segment,mms,Burst,1119,Boundary crossing
+2020-06-18/01:27:33,2020-06-18/01:30:03,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/01:25:03,2020-06-18/01:27:33,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/01:22:33,2020-06-18/01:25:03,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/01:20:03,2020-06-18/01:22:33,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/01:17:33,2020-06-18/01:20:03,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/01:15:13,2020-06-18/01:17:33,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/01:12:43,2020-06-18/01:15:13,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/01:10:13,2020-06-18/01:12:43,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/01:07:43,2020-06-18/01:10:13,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/01:05:13,2020-06-18/01:07:43,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/01:02:43,2020-06-18/01:05:13,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/01:00:13,2020-06-18/01:02:43,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/00:57:43,2020-06-18/01:00:13,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/00:55:13,2020-06-18/00:57:43,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/00:52:43,2020-06-18/00:55:13,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/00:50:13,2020-06-18/00:52:43,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/00:47:53,2020-06-18/00:50:13,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/00:45:23,2020-06-18/00:47:53,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/00:42:53,2020-06-18/00:45:23,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/00:40:23,2020-06-18/00:42:53,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/00:37:53,2020-06-18/00:40:23,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/00:35:23,2020-06-18/00:37:53,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/00:32:53,2020-06-18/00:35:23,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/00:30:23,2020-06-18/00:32:53,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/00:27:53,2020-06-18/00:30:23,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/00:25:23,2020-06-18/00:27:53,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/00:22:53,2020-06-18/00:25:23,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/00:20:33,2020-06-18/00:22:53,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/00:18:03,2020-06-18/00:20:33,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/00:15:33,2020-06-18/00:18:03,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/00:13:03,2020-06-18/00:15:33,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/00:10:33,2020-06-18/00:13:03,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/00:08:03,2020-06-18/00:10:33,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/00:05:33,2020-06-18/00:08:03,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/00:03:03,2020-06-18/00:05:33,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-18/00:00:33,2020-06-18/00:03:03,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/23:58:03,2020-06-18/00:00:33,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/23:55:33,2020-06-17/23:58:03,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/23:53:13,2020-06-17/23:55:33,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/23:50:43,2020-06-17/23:53:13,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/23:48:13,2020-06-17/23:50:43,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/23:45:43,2020-06-17/23:48:13,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/23:43:13,2020-06-17/23:45:43,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/23:40:43,2020-06-17/23:43:13,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/23:38:13,2020-06-17/23:40:43,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/23:35:43,2020-06-17/23:38:13,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/23:33:13,2020-06-17/23:35:43,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/23:30:43,2020-06-17/23:33:13,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/23:28:13,2020-06-17/23:30:43,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/23:25:53,2020-06-17/23:28:13,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/23:23:23,2020-06-17/23:25:53,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/23:20:53,2020-06-17/23:23:23,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/23:18:23,2020-06-17/23:20:53,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/23:15:53,2020-06-17/23:18:23,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/23:13:23,2020-06-17/23:15:53,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/23:10:53,2020-06-17/23:13:23,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/23:08:23,2020-06-17/23:10:53,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/23:05:53,2020-06-17/23:08:23,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/23:03:23,2020-06-17/23:05:53,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/23:00:53,2020-06-17/23:03:23,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/22:58:33,2020-06-17/23:00:53,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/22:56:03,2020-06-17/22:58:33,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/22:53:33,2020-06-17/22:56:03,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/22:51:03,2020-06-17/22:53:33,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/22:48:33,2020-06-17/22:51:03,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/22:46:03,2020-06-17/22:48:33,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/22:43:33,2020-06-17/22:46:03,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/22:41:03,2020-06-17/22:43:33,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/22:38:33,2020-06-17/22:41:03,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/22:36:03,2020-06-17/22:38:33,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/22:33:33,2020-06-17/22:36:03,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/22:31:13,2020-06-17/22:33:33,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/22:28:43,2020-06-17/22:31:13,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/22:26:13,2020-06-17/22:28:43,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/22:23:43,2020-06-17/22:26:13,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/22:21:13,2020-06-17/22:23:43,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/22:18:43,2020-06-17/22:21:13,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/22:16:13,2020-06-17/22:18:43,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/22:13:43,2020-06-17/22:16:13,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/22:11:13,2020-06-17/22:13:43,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/22:08:43,2020-06-17/22:11:13,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/22:06:13,2020-06-17/22:08:43,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/22:03:53,2020-06-17/22:06:13,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/22:01:23,2020-06-17/22:03:53,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/21:58:53,2020-06-17/22:01:23,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/21:56:23,2020-06-17/21:58:53,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/21:53:53,2020-06-17/21:56:23,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/21:51:23,2020-06-17/21:53:53,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/21:48:53,2020-06-17/21:51:23,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/21:46:23,2020-06-17/21:48:53,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/21:43:53,2020-06-17/21:46:23,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/21:41:23,2020-06-17/21:43:53,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/21:38:53,2020-06-17/21:41:23,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/21:36:33,2020-06-17/21:38:53,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/21:34:03,2020-06-17/21:36:33,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/21:31:33,2020-06-17/21:34:03,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/21:29:03,2020-06-17/21:31:33,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/21:26:33,2020-06-17/21:29:03,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/21:24:03,2020-06-17/21:26:33,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/21:21:33,2020-06-17/21:24:03,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/21:19:03,2020-06-17/21:21:33,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/21:16:33,2020-06-17/21:19:03,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/21:14:03,2020-06-17/21:16:33,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/21:11:33,2020-06-17/21:14:03,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/21:09:13,2020-06-17/21:11:33,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/21:06:43,2020-06-17/21:09:13,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/21:04:13,2020-06-17/21:06:43,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/21:01:43,2020-06-17/21:04:13,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/20:59:13,2020-06-17/21:01:43,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/20:56:43,2020-06-17/20:59:13,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/20:54:13,2020-06-17/20:56:43,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/20:51:43,2020-06-17/20:54:13,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/20:49:13,2020-06-17/20:51:43,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/20:46:43,2020-06-17/20:49:13,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/20:44:13,2020-06-17/20:46:43,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/20:41:53,2020-06-17/20:44:13,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/20:39:23,2020-06-17/20:41:53,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/20:36:53,2020-06-17/20:39:23,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/20:34:23,2020-06-17/20:36:53,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/20:31:53,2020-06-17/20:34:23,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/20:29:23,2020-06-17/20:31:53,burst_segment,mms,Burst,1119,Strong KH waves
+2020-06-17/19:45:00,2020-06-17/20:35:00,dsn_contact,mms1,Timeline,1119,null
+2020-06-17/19:17:13,2020-06-17/19:18:13,burst_segment,mms,Burst,1119,FPI Burst Cal - Segment 2 (1119) - A3 - MSP
+2020-06-17/17:58:33,2020-06-17/18:01:03,burst_segment,mms,Burst,1119,Boundary layer
+2020-06-17/17:56:03,2020-06-17/17:58:33,burst_segment,mms,Burst,1119,Boundary layer
+2020-06-17/17:55:00,2020-06-17/19:30:00,dsn_contact,mms4,Timeline,1119,null
+2020-06-17/17:53:43,2020-06-17/17:56:03,burst_segment,mms,Burst,1119,Boundary layer
+2020-06-17/17:51:13,2020-06-17/17:53:43,burst_segment,mms,Burst,1119,Boundary layer
+2020-06-17/16:56:22,2020-06-18/10:59:06,SROI,mms4,POC,1119,null
+2020-06-17/16:56:13,2020-06-18/10:58:56,SROI,mms3,POC,1119,null
+2020-06-17/16:56:12,2020-06-18/10:58:50,SROI,mms2,POC,1119,null
+2020-06-17/16:56:06,2020-06-18/10:58:51,SROI,mms1,POC,1119,null
+2020-06-17/16:56:06,2020-06-18/10:58:51,sitl_report,mms,SITL,1119,"Flank ROI with a long period of active KH waves selected.  Some additional Boundary layer, partial, and full MP crossings."
+2020-06-17/16:43:53,2020-06-20/16:43:53,sitl_window,mms,BDM,1119,null
+2020-06-17/16:05:00,2020-06-17/17:40:00,dsn_contact,mms3,Timeline,1119,null
+2020-06-17/14:15:00,2020-06-17/15:50:00,dsn_contact,mms2,Timeline,1119,null
+2020-06-17/11:15:00,2020-06-17/12:50:00,dsn_contact,mms1,Timeline,1119,null
+2020-06-17/09:10:00,2020-06-17/11:00:00,dsn_contact,mms4,Timeline,1119,null
+2020-06-17/07:10:00,2020-06-17/09:00:00,dsn_contact,mms3,Timeline,1119,null
+2020-06-17/05:23:53,2020-06-17/05:26:13,burst_segment,mms,Burst,1119,BBF with possible DF?
+2020-06-17/05:21:33,2020-06-17/05:23:53,burst_segment,mms,Burst,1119,BBF with possible DF?
+2020-06-17/05:19:13,2020-06-17/05:21:33,burst_segment,mms,Burst,1119,BBF with possible DF?
+2020-06-17/05:16:53,2020-06-17/05:19:13,burst_segment,mms,Burst,1119,BBF with possible DF?
+2020-06-17/05:14:33,2020-06-17/05:16:53,burst_segment,mms,Burst,1119,BBF with possible DF?
+2020-06-17/05:12:13,2020-06-17/05:14:33,burst_segment,mms,Burst,1119,BBF with possible DF?
+2020-06-17/05:09:53,2020-06-17/05:12:13,burst_segment,mms,Burst,1119,BBF with possible DF?
+2020-06-17/05:07:33,2020-06-17/05:09:53,burst_segment,mms,Burst,1119,BBF with possible DF?
+2020-06-17/05:05:13,2020-06-17/05:07:33,burst_segment,mms,Burst,1119,BBF with possible DF?
+2020-06-17/05:05:00,2020-06-17/06:55:00,dsn_contact,mms2,Timeline,1119,null
+2020-06-17/05:02:53,2020-06-17/05:05:13,burst_segment,mms,Burst,1119,BBF with possible DF?
+2020-06-17/04:14:13,2020-06-17/04:16:33,burst_segment,mms,Burst,1119,BBF
+2020-06-17/04:11:53,2020-06-17/04:14:13,burst_segment,mms,Burst,1119,BBF
+2020-06-17/04:09:23,2020-06-17/04:11:53,burst_segment,mms,Burst,1119,BBF
+2020-06-17/04:07:03,2020-06-17/04:09:23,burst_segment,mms,Burst,1119,BBF
+2020-06-17/04:04:43,2020-06-17/04:07:03,burst_segment,mms,Burst,1119,BBF
+2020-06-17/04:02:23,2020-06-17/04:04:43,burst_segment,mms,Burst,1119,BBF
+2020-06-17/04:00:03,2020-06-17/04:02:23,burst_segment,mms,Burst,1119,BBF
+2020-06-17/03:57:33,2020-06-17/04:00:03,burst_segment,mms,Burst,1119,BBF
+2020-06-17/03:55:13,2020-06-17/03:57:33,burst_segment,mms,Burst,1119,BBF
+2020-06-17/03:52:53,2020-06-17/03:55:13,burst_segment,mms,Burst,1119,BBF
+2020-06-17/03:50:33,2020-06-17/03:52:53,burst_segment,mms,Burst,1119,BBF
+2020-06-17/03:48:13,2020-06-17/03:50:33,burst_segment,mms,Burst,1119,BBF
+2020-06-17/03:45:43,2020-06-17/03:48:13,burst_segment,mms,Burst,1119,BBF
+2020-06-17/03:43:23,2020-06-17/03:45:43,burst_segment,mms,Burst,1119,BBF
+2020-06-17/03:42:03,2020-06-17/03:50:23,burst_segment,mms,Burst,1119,null
+2020-06-17/03:41:03,2020-06-17/03:43:23,burst_segment,mms,Burst,1119,BBF
+2020-06-17/03:31:23,2020-06-17/03:39:13,burst_segment,mms,Burst,1119,null
+2020-06-17/03:23:33,2020-06-17/03:31:23,burst_segment,mms,Burst,1119,null
+2020-06-17/03:10:53,2020-06-17/03:13:03,burst_segment,mms,Burst,1119,BBF
+2020-06-17/03:08:43,2020-06-17/03:10:53,burst_segment,mms,Burst,1119,BBF
+2020-06-17/03:06:53,2020-06-17/03:11:03,burst_segment,mms,Burst,1119,null
+2020-06-17/03:06:33,2020-06-17/03:08:43,burst_segment,mms,Burst,1119,BBF
+2020-06-17/03:00:23,2020-06-17/03:01:53,burst_segment,mms,Burst,1119,DF
+2020-06-17/02:59:03,2020-06-17/03:00:23,burst_segment,mms,Burst,1119,DF
+2020-06-17/02:57:43,2020-06-17/02:59:03,burst_segment,mms,Burst,1119,BBF following DF
+2020-06-17/02:56:23,2020-06-17/02:57:43,burst_segment,mms,Burst,1119,BBF following DF
+2020-06-17/02:54:13,2020-06-17/02:56:23,burst_segment,mms,Burst,1119,DF with BBF
+2020-06-17/02:52:43,2020-06-17/02:56:03,burst_segment,mms,Burst,1119,null
+2020-06-17/02:52:03,2020-06-17/02:54:13,burst_segment,mms,Burst,1119,DF with BBF
+2020-06-17/02:40:53,2020-06-17/02:43:13,burst_segment,mms,Burst,1119,PSBL encounter
+2020-06-17/02:38:23,2020-06-17/02:40:53,burst_segment,mms,Burst,1119,PSBL encounter
+2020-06-17/02:36:03,2020-06-17/02:38:23,burst_segment,mms,Burst,1119,PSBL encounter
+2020-06-17/02:33:43,2020-06-17/02:36:03,burst_segment,mms,Burst,1119,PSBL encounter
+2020-06-17/02:31:23,2020-06-17/02:33:43,burst_segment,mms,Burst,1119,PSBL encounter
+2020-06-17/02:28:53,2020-06-17/02:31:23,burst_segment,mms,Burst,1119,PSBL encounter
+2020-06-17/02:26:33,2020-06-17/02:28:53,burst_segment,mms,Burst,1119,PSBL encounter
+2020-06-17/02:24:13,2020-06-17/02:26:33,burst_segment,mms,Burst,1119,PSBL encounter
+2020-06-17/02:21:43,2020-06-17/02:24:13,burst_segment,mms,Burst,1119,PSBL encounter
+2020-06-17/02:19:23,2020-06-17/02:21:43,burst_segment,mms,Burst,1119,PSBL encounter
+2020-06-17/02:17:03,2020-06-17/02:19:23,burst_segment,mms,Burst,1119,PSBL encounter
+2020-06-17/02:14:43,2020-06-17/02:17:03,burst_segment,mms,Burst,1119,PSBL encounter
+2020-06-17/02:12:13,2020-06-17/02:14:43,burst_segment,mms,Burst,1119,PSBL encounter
+2020-06-17/02:09:53,2020-06-17/02:12:13,burst_segment,mms,Burst,1119,PSBL encounter
